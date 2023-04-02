@@ -1,18 +1,14 @@
-DHTesp > 1.18.0
-===
-```
- +--------------------------------------------------------------------------------------------+
- | Original library version: URL: https://github.com/beegee-tokyo/DHTesp                      |
- | -> This library is no longer maintained <-                                                 |
- | Note: This repository has been archived by the owner on Feb 5, 2022. It is now read-only.  |
- +--------------------------------------------------------------------------------------------+
-```
++--------------------------------------------------------------------------------------------+
+| Original library version: URL: https://github.com/beegee-tokyo/DHTesp                      |
+| -> This library is no longer maintained <-                                                 |
+| Note: This repository has been archived by the owner on Feb 5, 2022. It is now read-only.  |
++--------------------------------------------------------------------------------------------+
+
 The last official library release was 1.18.0. 
 The development of the DHTesp library was discontinued on 2022-02-05.
 
-This is a direct replacement for the no longer maintained DHTesp library.
-
 Not implemented for 1.19: DHTesp [![Build Status](https://travis-ci.com/beegee-tokyo/DHTesp.svg?branch=master)](https://travis-ci.com/beegee-tokyo/DHTesp)
+===
 
 An Arduino library for reading the DHT family of temperature and humidity sensors.    
 Forked from [arduino-DHT](https://github.com/markruys/arduino-DHT)     
